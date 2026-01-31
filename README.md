@@ -83,9 +83,6 @@ Predictive insights using purchase trends
 
 Advanced KPI cards with YoY growth metrics
 
-## 📊 Dashboard Preview
-![Customer Shopping Behavior Dashboard](images/dashboard.png)
-
 
 👩‍💻 About Me
 
