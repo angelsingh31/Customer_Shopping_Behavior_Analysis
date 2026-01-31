@@ -83,6 +83,8 @@ Predictive insights using purchase trends
 
 Advanced KPI cards with YoY growth metrics
 
+<img width="1305" height="730" alt="dashboard" src="https://github.com/user-attachments/assets/af23e764-cd34-4677-8071-bafbdc077420" />
+
 
 👩‍💻 About Me
 
